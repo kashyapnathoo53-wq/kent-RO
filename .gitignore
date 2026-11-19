@@ -1,0 +1,16 @@
+# Operating System & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary / test screenshots & cache
+temp_chrome/
+__pycache__/
+*.pyc
+actual*.png
+crop_screen*.png
+screen_*.png
+view_*.png
+preview_*.png
+test_*.png
